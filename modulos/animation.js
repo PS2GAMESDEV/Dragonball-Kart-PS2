@@ -6,7 +6,6 @@ export class Animation {
         this.totalFrames = totalFrames;
         this.speed = speed;
         this.loop = loop;
-        
         this.scale = 1.5;
 
         this.currentFrame = 0;
